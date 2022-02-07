@@ -53,7 +53,6 @@ body {
     pointer-events: none;
 }
 .back {
-    /* background: url(./img/mushroom.png); */
     background-size: auto;
     position: absolute;
     
